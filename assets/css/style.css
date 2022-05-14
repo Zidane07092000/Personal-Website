@@ -1005,6 +1005,10 @@ section {
   padding-top: 2%;
   padding-bottom: 2%;
 }
+
+.langs {
+  padding-top: 5%;
+}
 .breadcrumbs {
   padding: 20px 0;
   background: #040b14;
